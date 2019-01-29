@@ -1,0 +1,25 @@
+body {
+    padding: 5%;
+    font-family: 'Open Sans', sans-serif;
+    color: #212121;
+}
+
+#logo {
+    width: 200px;
+    margin-bottom: 20px
+}
+
+button {
+    border-radius: 5px;
+    padding: 8px;
+    border-color: #fff;
+    background-color: #80ceff;
+}
+
+a {
+    font-size: 12px;
+    font-family: 'Open Sans';
+    text-decoration: none !important;
+    color: #fff;
+    font-weight: bold
+}
